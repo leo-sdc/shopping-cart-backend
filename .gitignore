@@ -16,4 +16,3 @@ Guardfile
 README.html
 *.iml
 .idea
-.mvn
