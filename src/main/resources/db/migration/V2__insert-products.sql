@@ -1,0 +1,10 @@
+insert into product(id, name, value) values (1, 'Java', 50);
+insert into product(id, name, value) values (2, 'Javascript', 40);
+insert into product(id, name, value) values (3, 'Python', 30);
+insert into product(id, name, value) values (4, 'PHP', 20);
+insert into product(id, name, value) values (5, 'C#', 10);
+insert into product(id, name, value) values (6, 'Ruby', 45);
+insert into product(id, name, value) values (7, 'Scala', 35);
+insert into product(id, name, value) values (8, 'Swift', 25);
+insert into product(id, name, value) values (9, 'Kotlin', 15);
+insert into product(id, name, value) values (10, 'Go', 5);
